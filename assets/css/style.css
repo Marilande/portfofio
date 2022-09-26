@@ -10,7 +10,7 @@ html {
     font-size: 10px;
     font-family: 'Poppins', 'Times New Roman', Times, serif;
     scroll-behavior: smooth;
-}
+    }
 
 a {
     text-decoration: none;
@@ -27,11 +27,12 @@ p {
     margin-top: 5px;
     line-height: 2.5rem;
     font-weight: 200;
-    letter-spacing: 0.05rem;
+    letter-spacing: 0.05rem;      
 }
 
 ul li {
     list-style: none;
+    font-size: 1.2rem; 
 }
 
 .container {
